@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- heading -->
+# Hellow Wold!
 
-<!--
-**daldon123/daldon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- text about me -->
+>안녕하세요 개발자를 꿈꾸는 홍영호 입니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-디지털 컨버젼스 Fullstack 개발자 with react & node.js 과정 22.01.27 - 22.07.27<br/>
+
+🛠🔐Tech Stack
+![image description](https://img.shields.io/badge/-HTML-blue)
+![image description](https://img.shields.io/badge/-CSS-yellow)
+![image description](https://img.shields.io/badge/-JavaScript-red)
+![image description](https://img.shields.io/badge/-React-ff69b4)
+<br/>
+
+[SNS]
+<br/>
+<a href="https://www.instagram.com/daldon123/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
